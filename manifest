@@ -9,3 +9,5 @@ and restart php7.*-fpm
 4)add to /etc/hosts
 
 5)restart nginx
+
+6)sudo chown -R username:www-data storage && chown -R 775 storage
