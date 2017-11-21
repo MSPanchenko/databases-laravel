@@ -6,4 +6,6 @@ and restart php7.*-fpm
 
 3)symlink: sudo ln -s /etc/nginx/sites-available/databases /etc/nginx/sites-enabled/databases
 
-4)restart nginx
+4)add to /etc/hosts
+
+5)restart nginx
